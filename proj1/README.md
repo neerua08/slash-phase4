@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 Deliverables
 
 - Part1 (easy): for five prior projects, score them according to the [project2 rubic](https://github.com/txt/se23/blob/main/docs/project2.md).
   - Which, in summary, means "does this repo loo **good** (defined before)
@@ -10,7 +10,7 @@
 - Part3 (important): Write 750 words in a mardown file describing what was hard about this process, how that pain could have been avoided and what practices you are committing to perform in project2 to avoid that pain.
 
 
-## Project Grades
+## ✔️Project Grades
 |Project| Grading |
 |--|--|
 | c | [project_c.md](https://github.com/neerua08/slash-phase4/blob/main/proj1/Grading/project_c.md) |
@@ -19,10 +19,9 @@
 | c | [project_P.md](https://github.com/neerua08/slash-phase4/blob/main/proj1/Grading/project_P.md) |
 | c | [proj_R.md](https://github.com/neerua08/slash-phase4/blob/main/proj1/Grading/proj_R.md) |
 
-## Video
+## 🎬Live Project Video
 
 [<img src="https://github.com/neerua08/slash-phase4/blob/main/proj1/Thumbnail.png" width="50%">](https://youtu.be/lLyQ30hH6Zs "Slash Demo")
 
 
-## Essay
-[Link to essay](https://github.com/neerua08/slash-phase4/blob/main/proj1/Evaluation%20Essay.md)
+### 🔗Essay URL - https://github.com/neerua08/slash-phase4/blob/main/proj1/Evaluation%20Essay.md
