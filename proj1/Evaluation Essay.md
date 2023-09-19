@@ -2,10 +2,7 @@
 **Group Number - 75**
 
 **Team Members -** 
-Rohan Manish Ajmera
-Hemil Mehta
-Jash Gopani
-Akhil Neeruganti
+Rohan Manish Ajmera, Hemil Mehta, Jash Gopani, Akhil Neeruganti
 
 ## Difficulties faced during Project Evaluation and Setup
 1. After cloning the project "c"-slash, the installation instructions directed the user to utilize the package manager pip and install all of the package dependencies based on the requirements.txt file. We used the command that was described in the user manual for the installation. Following a successful installation using the provided command, we attempted to launch the program in accordance with the rest of the instructions. However, on attempting to run the application, an error appeared which said that the necessary packages could not be located or installed. As we looked into the issue further, we discovered that we had two different versions of Python loaded on our local system (the most recent one was for vscode, and the other was for Jupyter Notebook), and that the dependencies were only installed on the later version. We decided to keep the LTS version (the one for the Jupyter Notebook) and remove the other one in order to fix the problem. In addition to this, we were required to work with an older version of Python (3.9.7)
