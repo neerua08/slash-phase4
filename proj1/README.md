@@ -21,5 +21,8 @@
 
 ## Video
 
+[<img src="https://github.com/neerua08/slash-phase4/blob/main/proj1/Thumbnail.png" width="50%">](https://youtu.be/lLyQ30hH6Zs "Slash Demo")
+
+
 ## Essay
-[Link to essay](https://github.com/neerua08/slash-phase4/blob/main/proj1/Project%201_Essay.pdf)
+[Link to essay](https://github.com/neerua08/slash-phase4/blob/main/proj1/Evaluation%20Essay.md)
