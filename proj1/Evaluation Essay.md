@@ -14,7 +14,8 @@ Rohan Manish Ajmera, Hemil Mehta, Jash Gopani, Akhil Neeruganti
 ## Things that could have been avoided 
 1. It would have been possible to avoid scraping things from Etsy if it had been realized that the vast majority of the items obtained from that platform were nearly or entirely irrelevant.
 2. It would have been more efficient to focus on building a web application instead of a command line interface, which would have allowed the product to appeal to a far larger audience. It is also difficult to operate without being provided with detailed instructions.
-3. The user interface of the webpage is rendered non-responsive as a result of the use of HTML tables, which also makes the webpage less user-friendly in general. 
+3. The user interface of the webpage is rendered non-responsive as a result of the use of HTML tables, which also makes the webpage less user-friendly in general.
+4. A more clear documentation could have prevented the struggles of deploying the application. With this, we could understand the software needed and their versions.
 
 ## Proposed solutions to mitigate the above problems
 1. In order simplify the installation process, we would prioritize the development of extensive documentation that is understandable to all users trying to clone and execute the project. We would adhere to the following guidelines:
